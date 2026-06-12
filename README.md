@@ -19,7 +19,7 @@ Backend Developer working with Python, Django, FastAPI, and gRPC.
 
 🔧 Building backend services and APIs
 
-🧠 Currently focused on improving backend development skills while exploring Machine Learning and LLM applications.
+🧠 Currently focused on improving backend development skills while learning Machine Learning and Agentic AI.
 
 🏗️ Interested in working with data and extracting insights using Python.
 
