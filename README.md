@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey, I'm Adele 👋
+
+Backend Developer working with Python, Django, FastAPI, and gRPC.
+
+🔧 Building backend services and APIs
+
+🧠 Currently focused on improving backend development skills while exploring Machine Learning and LLM applications.
+
+🏗️ Interested in working with data and extracting insights using Python.
+
+☕ Powered by coffee and clean code
+
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/adele-alibeigi-3b867b199/)
