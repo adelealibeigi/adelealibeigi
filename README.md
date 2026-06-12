@@ -25,4 +25,4 @@ Backend Developer working with Python, Django, FastAPI, and gRPC.
 
 ☕ Powered by coffee and clean code
 
-🔗 [Connect me on LinkedIn](https://www.linkedin.com/in/adele-alibeigi-3b867b199/) or adelealibeigi@gmail.com
+🔗 Connect me on [LinkedIn](https://www.linkedin.com/in/adele-alibeigi-3b867b199/) or adelealibeigi@gmail.com
